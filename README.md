@@ -17,8 +17,8 @@
 <div align="center">
   <a href="https://github.com/RodrigoRedivo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRedivo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRedivo&layout=compact&langs_count=10border=true&theme=omni"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRedivo&hide_border=true&theme=omni" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRedivo&layout=compact&langs_count=10&theme=omni"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRedivo&border=true&theme=omni" />
 </div>
 
 <div align="center"><br>
