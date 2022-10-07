@@ -1,24 +1,24 @@
-## ✌️ Hi guys, I'm Rodrigo Redivo, passionate about technology and football! 🚀
+## ✌️ Hi guys, I'm Rodrigo Redivo, passionate about technology! 🚀
+```You want to seek, you need total dedication, your last limit and your best!```
 
 # **🖥Frontend Developer**
 
-```javascript
-  async user.index({
-    👨‍🦰 name: 'Rodrigo Redivo',
-    📆 age: Date.now() - '20/01/1992', 
-    🌄 city: 'São Carlos, SP',
-    💻 stack: ['Html5','CSS3','Javascript','Typescript','(UI/UX)', 'React'],
-    🎮 hobby: ['Jogar Cs','series', 'Football']
-  });
+```jsx
+  <User 
+    name='Rodrigo Redivo',
+    birthData='20/01/1992', 
+    city='São Carlos'
+    state='SP'
+    stack={'Html5','CSS','Javascript','Typescript','React'},
+  />
 
-  return response.status(201).send();
 ```
 
 <div align="center">
   <a href="https://github.com/RodrigoRedivo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRedivo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRedivo&layout=compact&langs_count=10&theme=omni"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRedivo&border=true&theme=omni" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRedivo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRedivo&layout=compact&langs_count=10&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRedivo&border=true&theme=synthwave"/>
 </div>
 
 <div align="center"><br>
