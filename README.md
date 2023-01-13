@@ -21,7 +21,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRedivo&border=true&theme=synthwave"/>
 </div>
 
-<div align="center"><br>
+<div align="center">
+  <a href="https://github.com/RodrigoRedivo">
+</div>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rod-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rod-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
